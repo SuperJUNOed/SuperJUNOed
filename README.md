@@ -84,7 +84,7 @@ welcome to my GitHub Page. I am a full-stack engineer with six years of professi
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Angular" width="48" height="48" alt="redis" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="redis" />
       <br>redis
     </td>
   </tr>
