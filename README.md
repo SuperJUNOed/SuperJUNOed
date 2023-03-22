@@ -126,3 +126,16 @@ welcome to my GitHub Page. I am a full-stack engineer with six years of professi
     </td>
  </tr>
 </table>
+<br>
+<h2> Free DM me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <div style="display: flex; align-items: center;">
+      <a href="superjuno1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">superjuno1018@gmail.com</b>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.fa42a6cfc24eb224</b>
+    </div>
+  </div>
+<div>
