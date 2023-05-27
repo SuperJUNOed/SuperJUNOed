@@ -4,7 +4,6 @@
 welcome to my GitHub Page. I am a full-stack engineer with six years of professional experience working on enterprise and startup projects. I'm passionate about learning, expanding his knowledge, building high quality software, and automation.
 </p>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
   </a>
 </div>
