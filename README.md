@@ -3,6 +3,8 @@
 <p align="justify"> 
 welcome to my GitHub Page. I am a full-stack engineer with six years of professional experience working on enterprise and startup projects. I'm passionate about learning, expanding his knowledge, building high quality software, and automation.
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=50&duration=2000&pause=1500&color=8DF71D&background=31B6FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Github!;My+name+is+Suzuki+Ren.;I+am+Junior+full-stack+developer.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!)](https://git.io/typing-svg)
+
 
 ## My favorite tools and technologies ⚙️ 
 
